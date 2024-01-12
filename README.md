@@ -1,0 +1,3 @@
+- [./file.txt](./file.txt)  # Works
+- [./subdir/file.txt](./subdir/file.txt)  # Works
+- [./subdir](./subdir)  # Works
